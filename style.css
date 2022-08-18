@@ -1,0 +1,32 @@
+.header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.services{
+    display: flex;
+    color: rgb(213, 138, 0);
+    flex-direction: row;
+}
+.service{
+    padding-left: 50px;
+    margin-bottom: 12px;
+}
+
+.heading-main{
+    background-color: black;
+    color: rgb(213, 138, 0);
+}
+
+.service-showcase-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service-show{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
